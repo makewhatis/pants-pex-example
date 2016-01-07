@@ -1,8 +1,0 @@
-timestamp: 1452205062.15
-datetime: Thursday Jan 07, 2016 14:17:42
-machine: tw-mbp13-djohansen.local
-user: djohansen
-path: /Users/djohansen/workspace/test_repo
-id: pants_run_2016_01_07_14_17_42_147
-cmd_line: ./pants binary :testing
-default_report: /Users/djohansen/workspace/test_repo/.pants.d/reports/pants_run_2016_01_07_14_17_42_147/html/build.html
